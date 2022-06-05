@@ -47,7 +47,7 @@ public class FutureAPIDemo {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                System.out.println("正在处理中，不要再催了，越催越慢 ，再催熄火");
+                System.out.println("正在处理中...");
             }
         }
     }
